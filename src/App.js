@@ -3,8 +3,9 @@ import FirstPage from './FirstPage'
 import SecondPage from './SecondPage'
 import GroupThirdCom from './GroupThirdCom'
 import HomePage from './HomePage'
+
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Routes,
     Route,
 
@@ -36,3 +37,7 @@ const App = () => {
 }
 
 export default App
+
+
+
+
