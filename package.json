@@ -1,7 +1,7 @@
 {
   "name": "task1",
   "version": "0.1.0",
-  "homepage": "http://Shaheen-Siddiqui.github.io/component_library",
+  "homepage": "http://Shaheen-Siddiqui.github.io/React_Repo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
