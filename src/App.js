@@ -5,7 +5,7 @@ import GroupThirdCom from './GroupThirdCom'
 import HomePage from './HomePage'
 
 import {
-    HashRouter as Router,
+    BrowserRouter as Router,
     Routes,
     Route,
 
