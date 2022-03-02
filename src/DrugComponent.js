@@ -15,7 +15,7 @@ const DrugComponent = ({peragraphOne,capsulImg,peracetamole,capsuleNum,nameOfmed
         </div>
         <div className="nineColor"><p>{buttonText} </p> </div>
         </div>
-        <button className='btn btn-danger '>{ButtonText} Add to carg</button>
+        <button className='btn btn-danger '>{ButtonText} Add TO CART</button>
         </div>
       </div>
 

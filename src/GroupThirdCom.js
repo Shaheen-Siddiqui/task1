@@ -7,7 +7,6 @@ import ThirdComponent from './ThirdComponent'
 const GroupThirdCom = () => {
 let [setArray,setSetArray]=useState(MycardArray)
 
-// internal styling of element
 const carddesing={
     color:'brown',
     textAlign: "center",
@@ -20,7 +19,7 @@ const carddesing={
     return ( <>
       <HeaderComponent/>
       <h1 style={carddesing}>MY CART</h1>
-      <p className='ItempeRa'>* Items Requiring Prescription (3)</p>
+      <p className='ItempeRa'>* Items Requiring Prescription (6)</p>
 
 
 
@@ -51,12 +50,12 @@ const carddesing={
         <p>Total Payable :                      </p>
     </div>
     <div className="">
-        <p>₹ 0.0</p>
+        <p>₹ 20,000</p>
         <p>FREE</p>
-        <p>₹ 0.0</p>
+        <p>₹ 15000</p>
     </div>
     </div>
-    <h2 className='totalText'>Your Total Saving on this order Rs. 789</h2>
+    <h2 className='totalText'>Your Total Saving on this order Rs. 5000</h2>
     </div>
 
 

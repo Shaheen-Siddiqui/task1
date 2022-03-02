@@ -49,34 +49,34 @@ export const drugArray=[
     {peragraphOne:'drug code 1',
     capsulImg:'https://media.istockphoto.com/photos/flying-pill-tablet-capsule-levitation-medicine-medical-treatment-for-picture-id1311641109?b=1&k=20&m=1311641109&s=170667a&w=0&h=xvma5EH0cpLCXce26Ti3Q4iCBhYDIxF0hge2oALKn2M=',
     peracetamole:'Aechofenac 100mg + Paracetamol',
-    capsuleNum:'325mg | 10 Teblets',
-    nameOfmedicine:'Teblets / Capsule',
-    buttonText:'Rs. 9'
+    capsuleNum:'325mg | 10 Tablets',
+    nameOfmedicine:'Tablets / Capsule',
+    buttonText:'Rs. 1500'
     },
     {peragraphOne:'drug code 1',
     capsulImg:'https://www.ardurecoverycenter.com/wp-content/uploads/2020/09/Drugs_-Types-of-Illegal-Drugs-1.png',
     peracetamole:'Aechofenac 100mg + Paracetamol',
-    capsuleNum:'325mg | 10 Teblets',
-    nameOfmedicine:'Teblets / Capsule',
-    buttonText:'Rs. 9',
+    capsuleNum:'325mg | 10 Tablets',
+    nameOfmedicine:'Tablets / Capsule',
+    buttonText:'Rs. 1500',
     ButtonText:'ADD TO CART'
     },
     
     {peragraphOne:'drug code 1',
     capsulImg:'https://www.investopedia.com/thmb/GnnDehu17zuqGz9X6RdTq7oqj-A=/2000x1125/smart/filters:no_upscale()/GettyImages-685027135-650c2467a8094a709549b60329be39d3.jpg',
     peracetamole:'Aechofenac 100mg + Paracetamol',
-    capsuleNum:'325mg | 10 Teblets',
-    nameOfmedicine:'Teblets / Capsule',
-    buttonText:'Rs. 9',
+    capsuleNum:'325mg | 10 Tablets',
+    nameOfmedicine:'Tablets / Capsule',
+    buttonText:'Rs. 1500',
     ButtonText:'ADD TO CART'
 
     },
     {peragraphOne:'drug code 1',
     capsulImg:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmIlJGUwrWAYs4HF6_LMoCB9-LEclxVULEw&usqp=CAU',
     peracetamole:'Aechofenac 100mg + Paracetamol',
-    capsuleNum:'325mg | 10 Teblets',
-    nameOfmedicine:'Teblets / Capsule',
-    buttonText:'Rs. 9',
+    capsuleNum:'325mg | 10 Tablets',
+    nameOfmedicine:'Tablets / Capsule',
+    buttonText:'Rs. 1500',
     ButtonText:'ADD TO CART'
 
     }
@@ -84,13 +84,13 @@ export const drugArray=[
 
 export const MycardArray=[
     {   leFtBoxImg:'https://5.imimg.com/data5/KH/DC/MY-6123456/protein-powder-tin-container-250x250.jpg',
-        firstBoX:'Proteein power cocoa 250 gm ',
+        firstBoX:'Protien power cocoa 250 gm ',
         forstPera:'Medical',
         secondp:'DRUG  CODE: 146700',
         redFont:'*Prescription required',
         rupees:'₹ 100/-',
         totastab:'19 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     },
     {   leFtBoxImg:'https://i.guim.co.uk/img/media/20491572b80293361199ca2fc95e49dfd85e1f42/0_240_5157_3094/master/5157.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ae5a5d55f34c9289215a2961d8fcb0f7',
         firstBoX:'Proteein power cocoa 250 gm ',
@@ -99,7 +99,7 @@ export const MycardArray=[
         redFont:'*Prescription required',
         rupees:'₹ 200/-',
         totastab:'10 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     },
 
     {   leFtBoxImg:'https://cdn.dribbble.com/users/1251959/screenshots/6578389/vanilla-protein-box-front_4x.jpg',
@@ -109,7 +109,7 @@ export const MycardArray=[
         redFont:'*Prescription required',
         rupees:'₹ 300/-',
         totastab:'14 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     },
     // 
 
@@ -120,7 +120,7 @@ export const MycardArray=[
         redFont:'*Prescription required',
         rupees:'₹ 700/-',
         totastab:'12 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     },
 
     {   leFtBoxImg:'https://isoponline.org/wp-content/uploads/2017/04/herbal-sig-header-2.jpg',
@@ -130,7 +130,7 @@ export const MycardArray=[
         redFont:'*Prescription required',
         rupees:'₹ 260/-',
         totastab:'1.9 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     },
 
     {   leFtBoxImg:'https://www.financialexpress.com/wp-content/uploads/2019/06/generic-660.jpg',
@@ -140,6 +140,6 @@ export const MycardArray=[
         redFont:'*Prescription required',
         rupees:'₹ 400/-',
         totastab:'14 tablet(s) in strip',
-        butteXtt:'+ 0 -'
+        butteXtt:'+ 1 -'
     }
 ];
