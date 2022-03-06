@@ -21,14 +21,14 @@ const FirstPage = () => {
         <div className='innreinput_style'>
           <label for="inputDes" className='input_lable lable1'>
           <i class="fa fa-search icon_s" style={{ fontSize: "36px" }}></i>
-          <input className='inputDes' name="search" type="search" placeholder='Search Jain Aushadhi' type="text" name="" id="" />
+          <input className='inputDes' name="search" type="search" placeholder='Search Jain Aushadhi' id="" />
           </label>
         
         {/* </div> */}
         {/* <div className="innreinput_style"> */}
         <label for="inputDes" className='input_lable lable2'>
         <i class="fa fa-refresh icon_s" style={{ fontSize: "36px" }}></i>
-          <input className='inputDes' name="search" type="search" placeholder='Canvert Branded Medicine' type="text" name="" id="" />
+          <input className='inputDes' name="search" type="search" placeholder='Canvert Branded Medicine' id="" />
         </label>
           
         </div>

@@ -6,8 +6,8 @@ import DrugComponent from './DrugComponent'
 import HeaderComponent from './HeaderComponent'
 
 const SecondPage = () => {
-let [state,setState]=useState(RenderArray)
-let [drugItem,setDrugItem]=useState(drugArray)
+let [state]=useState(RenderArray)
+let [drugItem]=useState(drugArray)
 
   return (
     <>
@@ -53,16 +53,6 @@ let [drugItem,setDrugItem]=useState(drugArray)
   })
 }
 </div>
-
-
-
-
-
-
-
-
-
-
     </>
   )
 }

@@ -5,7 +5,7 @@ import ThirdComponent from './ThirdComponent'
 
 
 const GroupThirdCom = () => {
-let [setArray,setSetArray]=useState(MycardArray)
+let [setArray]=useState(MycardArray)
 
 const carddesing={
     color:'brown',
